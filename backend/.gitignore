@@ -1,0 +1,7 @@
+target/
+/postgres-data/
+logs/
+build/
+.idea/
+.m2/
+venv/
