@@ -150,3 +150,11 @@ Siga as etapas abaixo para configurar e executar o frontend (Vue.js):
 4.  Inicie o servidor de desenvolvimento Vue.js:
     
     `npm run serve`
+
+Se Tudo Der Certo o Projeto terá esta cara:
+![Imagem do Exemplo](https://lh3.googleusercontent.com/drive-viewer/AKGpihYeu7KSmP1QvKfOXiPzaL6_jaZYWvULtsRgXmQf4y54B6g6U4j_Qbqy7gDCrLdHL4MO_ebv4pQYHp-fzedJQ_-5l94VJVT4Bl0=s1600-v0)
+![Imagem do Exemplo](https://lh3.googleusercontent.com/drive-viewer/AKGpiha7_2XROFKXRF5nzHH4MtLohSPmIqw3QYfbsVPqq8QaEjSLJq8wpIg-MC84RrgPMT_QCU2UsKFXcC24XPEAUZftNh62zNJrMsc=s1600-v0)
+![Imagem do Exemplo](https://lh3.googleusercontent.com/drive-viewer/AKGpihZogfDaxxG0YKq3GZX3fzIF5NPfsosJtijhWEckuz2BH0fqzSZBkL54-r6gUmnIuitb7VxO__0jgj8hvdlrDP3EOj8Fes5h00w=s1600-rw-v1)
+![Imagem do Exemplo](https://lh3.googleusercontent.com/drive-viewer/AKGpihZduXKU56T5GZ34zR5sOGBJYZFWXHI30HFsWSKJt8TB47pBvLzMhJYjNNIdeMcyYjTgnPyzDRso-AMaUC3Z8nu3CBEdsgdT7Q=s1600-rw-v1)
+
+
