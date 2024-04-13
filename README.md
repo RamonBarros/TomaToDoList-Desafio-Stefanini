@@ -22,6 +22,7 @@ A API oferece os seguintes recursos:
 - **Método HTTP:** POST
 - **Descrição:** Cria uma nova tarefa na lista de tarefas.
 - **Corpo da solicitação:** Deve ser um objeto JSON contendo os campos `title`, `description` e `status`.
+- **status deve ter o valor:** `toDo`,`doing` ou `done`
 - **Exemplo de corpo da solicitação:**
 ```json
 {
@@ -37,6 +38,7 @@ A API oferece os seguintes recursos:
 *   **Método HTTP:** PUT
 *   **Descrição:** Atualiza uma ou várias tarefas existentes na lista de tarefas.
 *   **Corpo da solicitação:** Deve ser um array JSON contendo objetos com os campos `id`, `title`, `description` e `status`.
+*   **status deve ter o valor:** `toDo`,`doing` ou `done`
 *   **Exemplo de corpo da solicitação:**
 
 jsonCopy code
@@ -63,6 +65,7 @@ jsonCopy code
 *   **Descrição:** Atualiza uma tarefa específica na lista de tarefas pelo seu ID.
 *   **Parâmetros de URL:** `{taskId}` - ID da tarefa a ser atualizada.
 *   **Corpo da solicitação:** Deve ser um objeto JSON contendo os campos  `id`, `title`, `description` e `status`.
+*   **status deve ter o valor**: `toDo`,`doing` ou `done`
 
 ### Obter todas as tarefas
 
