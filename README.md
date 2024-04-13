@@ -62,7 +62,7 @@ jsonCopy code
 *   **Método HTTP:** PUT
 *   **Descrição:** Atualiza uma tarefa específica na lista de tarefas pelo seu ID.
 *   **Parâmetros de URL:** `{taskId}` - ID da tarefa a ser atualizada.
-*   **Corpo da solicitação:** Deve ser um objeto JSON contendo os campos `title`, `description` e `status`.
+*   **Corpo da solicitação:** Deve ser um objeto JSON contendo os campos  `id`, `title`, `description` e `status`.
 
 ### Obter todas as tarefas
 
